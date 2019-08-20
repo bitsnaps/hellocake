@@ -1,0 +1,19 @@
+h2 {
+  color: blue;
+}
+
+.main-menu{
+  display: flex;
+}
+.sidebar {
+  width: 40%;
+  font-size: 80%;
+  color: green;
+}
+
+.alert {
+  border: 2px solid red;
+  text-align: center;
+  font-size: 150%;
+  background-color: coral;
+}
